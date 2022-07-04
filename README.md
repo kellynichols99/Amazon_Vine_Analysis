@@ -26,14 +26,19 @@ I selected to work with US Book reviews (https://s3.amazonaws.com/amazon-reviews
 <p>Using my knowledge of PySpark I determined if there was any bias towards reviews that were written as part of the Vine program. For this analysis, I determined if having a paid Vine review makes a difference in the percentage of 5-star reviews.</p>
 
 Here we can see a DataFrame showing the total number of reviews linked to the Vine program:
+  
 <img src="https://github.com/kellynichols99/Amazon_Vine_Analysis/blob/main/DataFrame%20of%20Vine%20reviews.png">
   
 Next we can see specific numbers:
+  
 <img src="https://github.com/kellynichols99/Amazon_Vine_Analysis/blob/main/Total%20number%20of%20Vine%20Reviews.png">
+  
 <img src="https://github.com/kellynichols99/Amazon_Vine_Analysis/blob/main/Vine%20reviews%20with%20five%20stars.png">
+  
 <img src="https://github.com/kellynichols99/Amazon_Vine_Analysis/blob/main/Percent%20%20of%20Vine%20reviews%20with%20five%20stars.png">
   
 Finally we can see a break down of all of the reviews for Amazon Reviews US Books:
+  
 <img src="https://github.com/kellynichols99/Amazon_Vine_Analysis/blob/main/Determine%20Bias%20of%20Vine%20Reviews.png">
   
 <h1>Challange Summary</h1>
